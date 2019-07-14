@@ -1,0 +1,17 @@
+E:\HideFolders\HideFolders\bin\Debug\HideFolders.exe
+E:\HideFolders\HideFolders\bin\Debug\HideFolders.pdb
+E:\HideFolders\HideFolders\obj\Debug\HideFolders.formMain.resources
+E:\HideFolders\HideFolders\obj\Debug\HideFolders.Properties.Resources.resources
+E:\HideFolders\HideFolders\obj\Debug\HideFolders.csproj.GenerateResource.Cache
+E:\HideFolders\HideFolders\obj\Debug\HideFolders.exe
+E:\HideFolders\HideFolders\obj\Debug\HideFolders.pdb
+E:\HideFolders\HideFolders\obj\Debug\HideFolders.csproj.CoreCompileInputs.cache
+E:\HideFolders\HideFolders\obj\Debug\HideFolders.csprojAssemblyReference.cache
+E:\HideFolders\HideFolders\bin\Debug\HideFolders.exe.config
+E:\HideFolders\HideFolders\bin\Debug\System.Data.SQLite.dll
+E:\HideFolders\HideFolders\bin\Debug\System.Data.SQLite.Linq.dll
+E:\HideFolders\HideFolders\bin\Debug\System.Data.SQLite.xml
+E:\HideFolders\HideFolders\bin\Debug\System.Data.SQLite.dll.config
+E:\HideFolders\HideFolders\obj\Debug\HideFolders.csproj.CopyComplete
+E:\HideFolders\HideFolders\obj\Debug\HideFolders.ucLogin.resources
+E:\HideFolders\HideFolders\obj\Debug\HideFolders.frmSettings.resources
